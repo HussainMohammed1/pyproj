@@ -1,2 +1,3 @@
 to make sure this bot runs you sould have :
-discord.py , dotenv , pandas , 
+discord.py , dotenv , pandas .
+you should make a .env file in the project dir and place your discord token inside of it (this is done for security reasons)
